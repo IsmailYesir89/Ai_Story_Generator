@@ -18,7 +18,6 @@ A creative writing tool that uses large language models to generate short storie
 2. Click generate
 3. Enjoy your AI-created story!
 
-## 📁 Directory
 ## 📝 Sample Output
 > Character: Pirate | Setting: Space | Tone: Comedic  
 > 🧾 *"Captain Redbeard soared across galaxies looking for cosmic treasure..."*
